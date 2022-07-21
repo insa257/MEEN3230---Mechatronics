@@ -1,1 +1,1 @@
-# MEEN3230---Mechatronics
+# MEEN3230 - Mechatronics
